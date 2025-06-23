@@ -12,6 +12,10 @@ services:
       - "traefik.http.routers.vueapp.tls=true"
       - "traefik.http.routers.vueapp.tls.certresolver=myresolver"
       - "traefik.http.services.vueapp.loadbalancer.server.port=5000" # Důležité! Port v kontejneru, kde běží serve
+
+      - "traefik.http.routers.redirect.rule=Host(`karelpelcak.eu`)"
+      - "traefik.http.routers.redirect.entrypoints=web"
+      - "traefik.http.routers.redirect.middlewares=redirect-to-https"
     networks:
       - web
 
