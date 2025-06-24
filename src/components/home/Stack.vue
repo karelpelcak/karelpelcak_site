@@ -24,5 +24,11 @@ const { t } = useI18n()
       <img src="/src/assets/stack/git.png" class="w-auto h-16 !bg-transparent" />
       <img src="/src/assets/stack/strapi.png" class="w-auto h-16 !bg-transparent" />
     </div>
+    <div class="w-screen flex justify-center mt-6">
+      <RouterLink to="/projects">
+        <h3 class="text-gray-500! hover:text-white! transition-colors text-xl font-bold w-auto">{{ t('route_work')
+        }}</h3>
+      </RouterLink>
+    </div>
   </div>
 </template>

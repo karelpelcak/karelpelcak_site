@@ -31,7 +31,7 @@ const toggleLang = () => {
         <RouterLink
           class="px-4 py-2 rounded-xl hover:bg-white hover:text-black transition-colors duration-300 font-semibold text-lg"
           to="/projects">{{ t('route_projects') }}</RouterLink>
-         <RouterLink
+        <RouterLink
           class="px-4 py-2 rounded-xl hover:bg-white hover:text-black transition-colors duration-300 font-semibold text-lg"
           to="/information">{{ t('route_info') }}</RouterLink>
       </div>
@@ -61,6 +61,9 @@ const toggleLang = () => {
       <RouterLink
         class="block px-4 py-2 rounded-xl hover:bg-white hover:text-black transition-colors duration-300 font-semibold text-lg"
         to="/projects">{{ t('route_projects') }}</RouterLink>
+      <RouterLink
+        class="px-4 py-2 rounded-xl hover:bg-white hover:text-black transition-colors duration-300 font-semibold text-lg"
+        to="/information">{{ t('route_info') }}</RouterLink>
     </div>
   </header>
 

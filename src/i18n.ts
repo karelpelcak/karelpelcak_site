@@ -6,6 +6,7 @@ const messages = {
         route_contacts: 'Contact',
         route_projects: 'Projects',
         route_info: 'Information',
+        route_work: 'My work',
         stack_text: 'I have no problem working with this',
     },
     cs: {
@@ -13,6 +14,7 @@ const messages = {
         route_contacts: 'Kontakt',
         route_projects: 'Projekty',
         route_info: "Informace",
+        route_work: 'Mojé práce',
         stack_text: 'S tímhle mi nedělá problém pracovat',
     }
 }
