@@ -2,7 +2,7 @@
     <div class="p-4">
         <div class="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
             <ProjectCard title="E-Shop"
-                description="Jednoduchý eshop který měl sloužit pro prodej věcí z epoxidu a 3D tisku později byl nahrazen frameworkem NextJS kvůli zkušenostem"
+                description="Jednoduchý eshop, který měl sloužit pro prodej věcí z epoxidu a 3D tisku, později byl nahrazen frameworkem NextJS kvůli zkušenostem"
                 :technologies="['Svelte', 'Postgres', 'Tailwind', 'NextJS']"
                 github="https://github.com/karelpelcak/3depox_eshop" />
             <ProjectCard title="Template project managment system"
