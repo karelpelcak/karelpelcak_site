@@ -14,7 +14,7 @@ const messages = {
         route_contacts: 'Kontakt',
         route_projects: 'Projekty',
         route_info: "Informace",
-        route_work: 'Mojé práce',
+        route_work: 'Moje práce',
         stack_text: 'S tímhle mi nedělá problém pracovat',
     }
 }

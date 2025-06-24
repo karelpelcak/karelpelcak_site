@@ -10,14 +10,14 @@
                 :technologies="['CSharp', 'Postgres', 'Tailwind', 'React']"
                 github="https://github.com/karelpelcak/Template_project_managment_system" />
             <ProjectCard title="Food API"
-                description="Food API, která měla slouzit jako backend vlástních kalorických tabulek, akorát druhá část týmu se stále nedostala k vávoji frontend části"
+                description="Food API, která měla slouzit jako backend vlástních kalorických tabulek, akorát druhá část týmu se stále nedostala k vývoji frontend části"
                 :technologies="['Go', 'Postgres']" />
             <ProjectCard title="CryptoCurency" description="Aplikace sloužící na sledovaní cen kryptoměn"
                 :technologies="['NextJS']" github="https://github.com/karelpelcak/CryptoCurency" />
-            <ProjectCard title="Rust site" description="Informační stránka k herní serveru hry Rust"
+            <ProjectCard title="Rust site" description="Informační stránka k hernímu serveru hry Rust"
                 :technologies="['React', 'Tailwind']" github="https://github.com/karelpelcak/rust_site" />
             <ProjectCard title="Karel Pelčák"
-                description="Moje osobní stránka s informacemi o mě sloužící především ja CV"
+                description="Moje osobní stránka s informacemi o mně sloužící především jako CV"
                 :technologies="['Vue', 'Tailwind']" github="https://github.com/karelpelcak/karelpelcak_site" />
         </div>
     </div>

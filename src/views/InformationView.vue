@@ -15,27 +15,27 @@
       <div class="relative border-l-2 border-gray-300 pl-4 space-y-4">
         <div class="relative">
           <div class="absolute -left-2 top-1 w-3 h-3 bg-blue-500 rounded-full"></div>
-          <h3 class="font-semibold ml-2">Praxe ve firmě blogic.cz</h3>
+          <h3 class="font-semibold ml-2">Praxe ve firmě Blogic.cz</h3>
           <p class="text-sm text-gray-600">Vývoj v C#, ASP.NET MVC</p>
         </div>
 
         <div class="relative">
           <div class="absolute -left-2 top-1 w-3 h-3 bg-blue-500 rounded-full"></div>
           <h3 class="font-semibold ml-2">Brigáda ve firmě TCservis s.r.o.</h3>
-          <p class="text-sm text-gray-600">Zpráva síťi</p>
+          <p class="text-sm text-gray-600">Zpráva sítě</p>
         </div>
 
         <div class="relative">
           <div class="absolute -left-2 top-1 w-3 h-3 bg-blue-500 rounded-full"></div>
           <h3 class="font-semibold ml-2">Praxe ve firmě TCservis s.r.o.</h3>
-          <p class="text-sm text-gray-600">Zpráva síťi během studia</p>
+          <p class="text-sm text-gray-600">Zpráva sítě během studia</p>
         </div>
 
 
         <div class="relative">
           <div class="absolute -left-2 top-1 w-3 h-3 bg-blue-500 rounded-full"></div>
           <h3 class="font-semibold ml-2">Práce ve firmě TCservis s.r.o.</h3>
-          <p class="text-sm text-gray-600">Krátká pracovní zkušenost jako opravař síťi</p>
+          <p class="text-sm text-gray-600">Krátká pracovní zkušenost jako opravař sítě</p>
           <p class="text-sm text-gray-600">1.11.2024 - 15.11.2024</p>
         </div>
 
