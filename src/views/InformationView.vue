@@ -22,13 +22,13 @@
         <div class="relative">
           <div class="absolute -left-2 top-1 w-3 h-3 bg-blue-500 rounded-full"></div>
           <h3 class="font-semibold ml-2">Brigáda ve firmě TCservis s.r.o.</h3>
-          <p class="text-sm text-gray-600">Zpráva sítě</p>
+          <p class="text-sm text-gray-600">Správa sítě</p>
         </div>
 
         <div class="relative">
           <div class="absolute -left-2 top-1 w-3 h-3 bg-blue-500 rounded-full"></div>
           <h3 class="font-semibold ml-2">Praxe ve firmě TCservis s.r.o.</h3>
-          <p class="text-sm text-gray-600">Zpráva sítě během studia</p>
+          <p class="text-sm text-gray-600">Správa sítě během studia</p>
         </div>
 
 
