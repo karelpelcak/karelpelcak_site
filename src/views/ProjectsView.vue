@@ -22,6 +22,9 @@
             <ProjectCard title="VibeCoding chat template"
                 description="Template chat aplikace vytvořen v cursor IDE"
                 :technologies="['React', 'Go']" github="https://github.com/karelpelcak/VibeCoding_chat_template" />
+            <ProjectCard title="NestJS auth api"
+                description="NestJS backend sloužící jako vzor pro authentikaci"
+                :technologies="['NestJS']" github="https://github.com/karelpelcak/nestjs_auth" />
       </div>
     </div>
 </template>
