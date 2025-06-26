@@ -19,7 +19,10 @@
             <ProjectCard title="Karel Pelčák"
                 description="Moje osobní stránka s informacemi o mně sloužící především jako CV"
                 :technologies="['Vue', 'Tailwind']" github="https://github.com/karelpelcak/karelpelcak_site" />
-        </div>
+            <ProjectCard title="VibeCoding chat template"
+                description="Template chat aplikace vytvořen v cursor IDE"
+                :technologies="['React', 'Go']" github="https://github.com/karelpelcak/VibeCoding_chat_template" />
+      </div>
     </div>
 </template>
 
